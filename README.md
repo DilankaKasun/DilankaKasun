@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 - 🌱 I’m currently diving deep into **Machine Learning** and **Artificial Intelligence**.
 - 🚀 I’m working on several exciting projects that you can find here on my GitHub.
 - 💬 Ask me about **Web Development**, **Software Engineering Best Practices**, and anything **Tech-related**!
-- 📫 How to reach me: [dilanka@example.com](mailto:dilanka@example.com)
+- 📫 How to reach me: [dilanka@example.com](mailto:dilanka2018kasun@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing chess and hiking in my free time.
 
@@ -50,14 +50,20 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 Here are some of my noteworthy projects:
 
-### Project 1: Machine Learning Model for Predicting Stock Prices
+### [Machine Learning Model for Predicting Stock Prices](https://github.com/DilankaKasun/stock-price-prediction)
 A machine learning model utilizing LSTM networks to predict future stock prices based on historical data.
 
-### Project 2: E-commerce Platform
+### [E-commerce Platform](https://github.com/DilankaKasun/e-commerce-platform)
 A full-featured e-commerce platform built with React and Node.js, supporting user authentication, product management, and payment processing.
 
-### Project 3: Personal Blog
+### [Personal Blog](https://github.com/DilankaKasun/personal-blog)
 A personal blog website created with Django, featuring user authentication, blog post creation, and commenting system.
+
+### [Weather Forecast App](https://github.com/DilankaKasun/weather-forecast-app)
+A weather forecast application built with React and OpenWeatherMap API, providing real-time weather updates for any location.
+
+### [Chat Application](https://github.com/DilankaKasun/chat-application)
+A real-time chat application using Socket.io and Node.js, supporting multiple chat rooms and private messaging.
 
 ## GitHub Stats
 
@@ -66,8 +72,8 @@ A personal blog website created with Django, featuring user authentication, blog
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/dilankakasun/)
-- [Twitter](https://twitter.com/DilankaKasun)
-- [Personal Website](https://dilankakasun.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilankakasun/)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DilankaKasun)
+- [![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://dilankakasun.com)
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or learn more about my work.
