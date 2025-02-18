@@ -57,6 +57,22 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 1. **AI-Powered Traffic Management System**
+A real-time traffic management system using AI to optimize traffic flow.  
+**Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/DilankaKasun/traffic-management-system)  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://traffic-demo.com)
+
+### 2. **E-Commerce Platform with React and Node.js**
+A full-stack e-commerce platform with user authentication, payment integration, and admin dashboard.  
+**Tech Stack**: ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/DilankaKasun/e-commerce-platform)  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://ecommerce-demo.com)
+
+---
+
 ## 📈 Activity
 
 <h3 align="center">GitHub Activity Graph</h3>
@@ -89,17 +105,86 @@
 
 ---
 
-## 🤝 Connect with Me
+## 📜 Certifications
+
+- **AWS Certified Solutions Architect - Associate**  
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) [View Certificate](https://example.com/aws-cert)
+
+- **TensorFlow Developer Certificate**  
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) [View Certificate](https://example.com/tensorflow-cert)
+
+- **Google Cloud Professional Data Engineer**  
+  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) [View Certificate](https://example.com/gcp-cert)
+
+---
+
+## 🏆 Achievements & Awards
+
+- **Winner, Global AI Hackathon 2023**  
+  Developed an innovative AI-powered solution for real-time traffic management.  
+  ![Hackathon](https://img.shields.io/badge/Hackathon-Winner-brightgreen?style=for-the-badge)
+
+- **Top Contributor, Open Source Community 2022**  
+  Recognized for outstanding contributions to open-source projects.  
+  ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge)
+
+---
+
+## 🌱 Open Source Contributions
+
+I actively contribute to open-source projects to give back to the developer community. Here are some of my contributions:
+
+- [Repository Name](https://github.com/example/repo) - Description of your contribution.
+- [Another Repository](https://github.com/example/another-repo) - Another contribution description.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dilankakasun/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/DilankaKasun">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://dilankakasun.com">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Personal Website" />
+  <img src="https://contrib.rocks/image?user=DilankaKasun" alt="Contributions" />
+</p>
+
+---
+
+## ✍️ Tech Blog
+
+I enjoy sharing my knowledge and experiences through technical writing. Check out my latest articles:
+
+- [Building Scalable APIs with Node.js and Express](https://example.com/blog-post-1)
+- [Introduction to Machine Learning with Python](https://example.com/blog-post-2)
+
+<a href="https://medium.com/@DilankaKasun">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
+
+---
+
+## 🤝 Community Involvement
+
+- **Mentor at CodePath.org**  
+  Guiding students in software development and career growth.  
+  ![CodePath](https://img.shields.io/badge/CodePath-Mentor-blue?style=for-the-badge)
+
+- **Organizer, Local Tech Meetups**  
+  Hosting monthly meetups on AI, ML, and Web Development.  
+  ![Meetup](https://img.shields.io/badge/Meetup-Organizer-orange?style=for-the-badge)
+
+---
+
+## 😄 Fun Facts
+
+- I love solving algorithmic challenges on platforms like LeetCode and HackerRank.  
+  ![LeetCode](https://img.shields.io/badge/LeetCode-Solved-green?style=for-the-badge)
+
+- I’m an avid chess player and enjoy hiking on weekends.  
+  ![Chess](https://img.shields.io/badge/Chess-Enthusiast-yellow?style=for-the-badge) ![Hiking](https://img.shields.io/badge/Hiking-Lover-lightgreen?style=for-the-badge)
+
+---
+
+## 📧 Contact Me
+
+Feel free to reach out for collaborations, mentorship, or just to say hi! You can email me at [dilanka@example.com](mailto:dilanka2018kasun@gmail.com) or schedule a meeting via [Calendly](https://calendly.com/dilankakasun).
+
+<p align="center">
+  <a href="https://calendly.com/dilankakasun">
+    <img src="https://img.shields.io/badge/Calendly-Schedule%20Meeting-blue?style=for-the-badge" alt="Calendly" />
   </a>
 </p>
 
