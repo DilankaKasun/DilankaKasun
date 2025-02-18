@@ -46,24 +46,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=go&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
-## Projects
-
-Here are some of my noteworthy projects:
-
-### [Machine Learning Model for Predicting Stock Prices](https://github.com/DilankaKasun/stock-price-prediction)
-A machine learning model utilizing LSTM networks to predict future stock prices based on historical data.
-
-### [E-commerce Platform](https://github.com/DilankaKasun/e-commerce-platform)
-A full-featured e-commerce platform built with React and Node.js, supporting user authentication, product management, and payment processing.
-
-### [Personal Blog](https://github.com/DilankaKasun/personal-blog)
-A personal blog website created with Django, featuring user authentication, blog post creation, and commenting system.
-
-### [Weather Forecast App](https://github.com/DilankaKasun/weather-forecast-app)
-A weather forecast application built with React and OpenWeatherMap API, providing real-time weather updates for any location.
-
-### [Chat Application](https://github.com/DilankaKasun/chat-application)
-A real-time chat application using Socket.io and Node.js, supporting multiple chat rooms and private messaging.
 
 ## GitHub Stats
 
