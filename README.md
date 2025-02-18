@@ -2,7 +2,7 @@
 <div align="center">
   <h1>Hi there, I'm <b>Dilanka Kasun</b> 👋</h1>
   <p>
-    Passionate Software Developer | Machine Learning Enthusiast | Tech Explorer
+    Software Developer | AI & ML Enthusiast | Tech Innovator
   </p>
   <a href="https://komarev.com/ghpvc/?username=DilankaKasun&color=brightgreen">
     <img src="https://komarev.com/ghpvc/?username=DilankaKasun&color=brightgreen" alt="Profile Views" />
@@ -13,14 +13,12 @@
 
 ## 🌟 About Me
 
-- 🌱 I’m currently diving deep into **Machine Learning**, **Artificial Intelligence**, and **Data Science**.
-- 🚀 Actively working on exciting projects that you can explore in my repositories.
-- 💬 Ask me about **Web Development**, **Software Engineering Best Practices**, or anything **Tech-related**!
-- 📫 Reach me at: [dilanka@example.com](mailto:dilanka2018kasun@gmail.com)
+- 🌱 I’m passionate about **Machine Learning**, **Artificial Intelligence**, and **Data Science**, constantly exploring new ways to leverage these technologies to solve real-world problems.
+- 🚀 Currently working on exciting projects that push the boundaries of innovation—check out my repositories to see what I’m building!
+- 💬 Feel free to ask me about **Web Development**, **Software Engineering Best Practices**, or anything **Tech-related**—I love sharing knowledge and collaborating with others.
+- 📫 Reach me at: [dilanka2018kasun@gamail.com](mailto:dilanka2018kasun@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy playing chess, hiking, and solving algorithmic challenges in my free time.
-
----
+- ⚡ Fun fact: When I’m not coding, you’ll find me playing chess, hiking in nature, or tackling algorithmic challenges for fun.
 
 ## 💻 Skills
 
