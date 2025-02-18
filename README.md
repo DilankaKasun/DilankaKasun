@@ -70,12 +70,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 </div>
 
-
-## GitHub Stats
-
-![DilankaKasun's GitHub stats](https://github-readme-stats.vercel.app/api?username=DilankaKasun&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DilankaKasun&layout=compact&theme=radical)
-
 ## Connect with Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilankakasun/)
