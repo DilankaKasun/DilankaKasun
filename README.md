@@ -1,68 +1,79 @@
-# Dilanka Kasun
+# Hi there, I'm Dilanka Kasun 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=DilankaKasun&color=brightgreen)](https://github.com/DilankaKasun)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilankakasun/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/DilankaKasun)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=aboutdotme&logoColor=white)](https://dilankakasun.com)
+Welcome to my GitHub profile! I'm a passionate software developer with a love for creating innovative solutions and exploring new technologies.
 
-## Software Developer | ML Enthusiast | Problem Solver
+![Profile Views](https://komarev.com/ghpvc/?username=DilankaKasun&color=brightgreen)
 
-I'm a passionate software developer focused on creating innovative solutions and exploring cutting-edge technologies. Currently diving deep into Machine Learning and AI while building robust web applications.
+## About Me
 
-### 🔍 Current Focus
+- 🌱 I’m currently diving deep into **Machine Learning** and **Artificial Intelligence**.
+- 🚀 I’m working on several exciting projects that you can find here on my GitHub.
+- 💬 Ask me about **Web Development**, **Software Engineering Best Practices**, and anything **Tech-related**!
+- 📫 How to reach me: [dilanka@example.com](mailto:dilanka2018kasun@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love playing chess and hiking in my free time.
 
-- Exploring **Machine Learning** and **Artificial Intelligence**
-- Developing scalable web applications
-- Contributing to open-source projects
-- Practicing software engineering best practices
+## Skills
 
-### 💻 Technical Expertise
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-**Web Technologies**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Database & Infrastructure**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+### Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 🎯 Featured Projects
+### Other
+![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=go&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
-**Stock Price Prediction Model**  
-Machine learning model using LSTM networks for stock price forecasting
-[View Project →](https://github.com/DilankaKasun/stock-price-prediction)
+## Projects
 
-**Enterprise E-commerce Platform**  
-Full-stack e-commerce solution with React and Node.js
-[View Project →](https://github.com/DilankaKasun/e-commerce-platform)
+Here are some of my noteworthy projects:
 
-**Real-time Chat Application**  
-Socket.io powered chat platform with private messaging
-[View Project →](https://github.com/DilankaKasun/chat-application)
+### [Machine Learning Model for Predicting Stock Prices](https://github.com/DilankaKasun/stock-price-prediction)
+A machine learning model utilizing LSTM networks to predict future stock prices based on historical data.
 
-### 📊 GitHub Analytics
+### [E-commerce Platform](https://github.com/DilankaKasun/e-commerce-platform)
+A full-featured e-commerce platform built with React and Node.js, supporting user authentication, product management, and payment processing.
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DilankaKasun&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilankaKasun&layout=compact&theme=radical"/>
-</p>
+### [Personal Blog](https://github.com/DilankaKasun/personal-blog)
+A personal blog website created with Django, featuring user authentication, blog post creation, and commenting system.
 
-### 📫 Get in Touch
+### [Weather Forecast App](https://github.com/DilankaKasun/weather-forecast-app)
+A weather forecast application built with React and OpenWeatherMap API, providing real-time weather updates for any location.
 
-- Email: dilanka@example.com
-- Portfolio: [dilankakasun.com](https://dilankakasun.com)
-- LinkedIn: [linkedin.com/in/dilankakasun](https://www.linkedin.com/in/dilankakasun/)
+### [Chat Application](https://github.com/DilankaKasun/chat-application)
+A real-time chat application using Socket.io and Node.js, supporting multiple chat rooms and private messaging.
 
----
+## GitHub Stats
 
-*"Building tomorrow's solutions with today's code" 🚀*
+![DilankaKasun's GitHub stats](https://github-readme-stats.vercel.app/api?username=DilankaKasun&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DilankaKasun&layout=compact&theme=radical)
+
+## Connect with Me
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilankakasun/)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DilankaKasun)
+- [![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://dilankakasun.com)
+
+Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or learn more about my work.
