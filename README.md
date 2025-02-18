@@ -1,79 +1,110 @@
-# Hi there, I'm Dilanka Kasun 👋
-
-Welcome to my GitHub profile! I'm a passionate software developer with a love for creating innovative solutions and exploring new technologies.
-
-![Profile Views](https://komarev.com/ghpvc/?username=DilankaKasun&color=brightgreen)
-
-## About Me
-
-- 🌱 I’m currently diving deep into **Machine Learning** and **Artificial Intelligence**.
-- 🚀 I’m working on several exciting projects that you can find here on my GitHub.
-- 💬 Ask me about **Web Development**, **Software Engineering Best Practices**, and anything **Tech-related**!
-- 📫 How to reach me: [dilanka@example.com](mailto:dilanka2018kasun@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love playing chess and hiking in my free time.
-
-## Skills
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### Other
-![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=go&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-
-
-
-
-<h3 align="left">Activity:</h3>
-
-
-
-[![Nadeesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DilankaKasun&bg_color=tokyo-night&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/DilankaKasun/github-readme-activity-graph)
-<br>
-
-###
-
+<!-- Header Section -->
 <div align="center">
-  <a href="https://github.com/DilankaKasun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilankaKasun&layout=compact&theme=algolia&hide_border=false" /></a>
-</div><hr>
-<div align="center">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DilankaKasun&theme=transparent" height="150" alt="DilankaKasun" /></div> <hr>
- <div align="center">
-
-
-![Nadeesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DilankaKasun\&theme=transparent\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues ) 
-
+  <h1>Hi there, I'm <b>Dilanka Kasun</b> 👋</h1>
+  <p>
+    Passionate Software Developer | Machine Learning Enthusiast | Tech Explorer
+  </p>
+  <a href="https://komarev.com/ghpvc/?username=DilankaKasun&color=brightgreen">
+    <img src="https://komarev.com/ghpvc/?username=DilankaKasun&color=brightgreen" alt="Profile Views" />
+  </a>
 </div>
 
-## Connect with Me
+---
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilankakasun/)
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DilankaKasun)
-- [![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://dilankakasun.com)
+## 🌟 About Me
 
-Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or learn more about my work.
+- 🌱 I’m currently diving deep into **Machine Learning**, **Artificial Intelligence**, and **Data Science**.
+- 🚀 Actively working on exciting projects that you can explore in my repositories.
+- 💬 Ask me about **Web Development**, **Software Engineering Best Practices**, or anything **Tech-related**!
+- 📫 Reach me at: [dilanka@example.com](mailto:dilanka2018kasun@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy playing chess, hiking, and solving algorithmic challenges in my free time.
+
+---
+
+## 💻 Skills
+
+### Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
+
+### Frameworks & Libraries
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+</p>
+
+### Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+### Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+## 📈 Activity
+
+<h3 align="center">GitHub Activity Graph</h3>
+
+<p align="center">
+  <a href="https://github.com/DilankaKasun/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DilankaKasun&bg_color=tokyo-night&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Activity Graph" />
+  </a>
+</p>
+
+<h3 align="center">Top Languages</h3>
+
+<p align="center">
+  <a href="https://github.com/DilankaKasun/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilankaKasun&layout=compact&theme=algolia&hide_border=false" alt="Top Languages" />
+  </a>
+</p>
+
+<h3 align="center">Streak Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilankaKasun&theme=transparent" height="150" alt="Streak Stats" />
+</p>
+
+<h3 align="center">GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DilankaKasun&theme=transparent&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dilankakasun/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/DilankaKasun">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://dilankakasun.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Personal Website" />
+  </a>
+</p>
+
+---
+
+## 🙏 Thank You
+
+Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or learn more about my work. Let's build something amazing together! 🚀
