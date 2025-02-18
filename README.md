@@ -47,6 +47,30 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ![Agile](https://img.shields.io/badge/Agile-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 
+
+
+<h3 align="left">Activity:</h3>
+
+
+
+[![Nadeesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DilankaKasun&bg_color=tokyo-night&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/DilankaKasun/github-readme-activity-graph)
+<br>
+
+###
+
+<div align="center">
+  <a href="https://github.com/DilankaKasun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilankaKasun&layout=compact&theme=algolia&hide_border=false" /></a>
+</div><hr>
+<div align="center">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DilankaKasun&theme=transparent" height="150" alt="DilankaKasun" /></div> <hr>
+ <div align="center">
+
+
+![Nadeesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DilankaKasun\&theme=transparent\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues ) 
+
+</div>
+
+
 ## GitHub Stats
 
 ![DilankaKasun's GitHub stats](https://github-readme-stats.vercel.app/api?username=DilankaKasun&show_icons=true&theme=radical)
