@@ -5,71 +5,64 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/DilankaKasun)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=aboutdotme&logoColor=white)](https://dilankakasun.com)
 
-## 👨‍💻 About Me
+## Software Developer | ML Enthusiast | Problem Solver
 
-Passionate software developer with expertise in full-stack development, machine learning, and cloud technologies. I create innovative solutions while adhering to software engineering best practices.
+I'm a passionate software developer focused on creating innovative solutions and exploring cutting-edge technologies. Currently diving deep into Machine Learning and AI while building robust web applications.
 
-- 🔭 Currently exploring **Machine Learning** and **Artificial Intelligence**
-- 🌱 Working on several open-source projects
-- 💬 Expertise in **Web Development** and **Software Architecture**
-- 📫 Reach me at: [dilanka@example.com](mailto:dilanka2018kasun@gmail.com)
-- ⚡ When not coding: Chess enthusiast and avid hiker
+### 🔍 Current Focus
 
-## 🛠️ Technical Stack
+- Exploring **Machine Learning** and **Artificial Intelligence**
+- Developing scalable web applications
+- Contributing to open-source projects
+- Practicing software engineering best practices
 
-**Languages & Frameworks**
-```
-Frontend     : React.js, JavaScript, HTML5/CSS3
-Backend      : Node.js, Express, Django, Flask
-Languages    : Python, Java, C++, JavaScript
-Database     : PostgreSQL, MongoDB, MySQL
-Cloud & DevOps: AWS, Docker, Kubernetes, GitHub Actions
-```
+### 💻 Technical Expertise
 
-**Expertise**
-```
-• Full-Stack Development    • RESTful APIs & GraphQL
-• Microservices            • Machine Learning
-• Cloud Architecture       • CI/CD Pipelines
-• Agile Methodologies     • System Design
-```
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-## 🚀 Featured Projects
+**Web Technologies**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-### Machine Learning Stock Price Predictor
-Advanced LSTM-based model for stock market prediction with high accuracy rates.
-- `Python` `TensorFlow` `Pandas` `NumPy`
-- [View Project](https://github.com/DilankaKasun/stock-price-prediction)
+**Database & Infrastructure**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-### Enterprise E-commerce Platform
-Scalable e-commerce solution with comprehensive features and payment integration.
-- `React` `Node.js` `MongoDB` `Stripe`
-- [View Project](https://github.com/DilankaKasun/e-commerce-platform)
+### 🎯 Featured Projects
 
-### Real-time Chat Application
-Sophisticated chat platform with real-time messaging and room management.
-- `Socket.io` `Node.js` `Redis` `React`
-- [View Project](https://github.com/DilankaKasun/chat-application)
+**Stock Price Prediction Model**  
+Machine learning model using LSTM networks for stock price forecasting
+[View Project →](https://github.com/DilankaKasun/stock-price-prediction)
 
-### Weather Forecast Application
-Location-based weather forecasting with intuitive UI and detailed metrics.
-- `React` `OpenWeatherMap API` `Geolocation`
-- [View Project](https://github.com/DilankaKasun/weather-forecast-app)
+**Enterprise E-commerce Platform**  
+Full-stack e-commerce solution with React and Node.js
+[View Project →](https://github.com/DilankaKasun/e-commerce-platform)
 
-## 📊 GitHub Analytics
+**Real-time Chat Application**  
+Socket.io powered chat platform with private messaging
+[View Project →](https://github.com/DilankaKasun/chat-application)
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DilankaKasun&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+### 📊 GitHub Analytics
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DilankaKasun&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DilankaKasun&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilankaKasun&layout=compact&theme=radical"/>
+</p>
 
-</div>
+### 📫 Get in Touch
+
+- Email: dilanka@example.com
+- Portfolio: [dilankakasun.com](https://dilankakasun.com)
+- LinkedIn: [linkedin.com/in/dilankakasun](https://www.linkedin.com/in/dilankakasun/)
 
 ---
 
-<div align="center">
-  
-📬 Open for collaborations and interesting projects. Let's connect!
-
-</div>
+*"Building tomorrow's solutions with today's code" 🚀*
