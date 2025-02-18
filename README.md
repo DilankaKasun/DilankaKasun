@@ -178,7 +178,7 @@ I enjoy sharing my knowledge and experiences through technical writing. Check ou
 
 ## 📧 Contact Me
 
-Feel free to reach out for collaborations, mentorship, or just to say hi! You can email me at [dilanka@example.com](mailto:dilanka2018kasun@gmail.com) or schedule a meeting via [Calendly](https://calendly.com/dilankakasun).
+Feel free to reach out for collaborations, mentorship, or just to say hi! You can email me at [dilanka2018kasun@gmail.com](mailto:dilanka2018kasun@gmail.com) or schedule a meeting via [Calendly](https://calendly.com/dilankakasun).
 
 <p align="center">
   <a href="https://calendly.com/dilankakasun">
